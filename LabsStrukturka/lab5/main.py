@@ -80,7 +80,7 @@ def create_test_tree_2():
 
 
 def create_test_tree_3():
-    return TreeNode(42)
+    return TreeNode(67)
 
 
 def create_test_tree_4():
